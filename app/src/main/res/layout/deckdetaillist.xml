@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/battle_ram"
+                android:id="@+id/d1" />
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/archers"
+                android:id="@+id/d2" />
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/archers"
+                android:id="@+id/d3" />
+
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/archers"
+                android:id="@+id/d4" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/battle_ram"
+                android:id="@+id/d5" />
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/archers"
+                android:id="@+id/d6" />
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/archers"
+                android:id="@+id/d7" />
+
+
+            <ImageView
+                android:layout_width="77dp"
+                android:layout_height="83dp"
+                app:srcCompat="@drawable/archers"
+                android:id="@+id/d8" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

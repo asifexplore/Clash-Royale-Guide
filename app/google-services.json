@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "916864251585",
+    "firebase_url": "https://clashroyale2nd-264e7.firebaseio.com",
+    "project_id": "clashroyale2nd-264e7",
+    "storage_bucket": "clashroyale2nd-264e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916864251585:android:ab62015575f2457d",
+        "android_client_info": {
+          "package_name": "com.example.a15017498.clashroyale2ndtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916864251585-e2r6skkbepf4o3usd2obkkhmcqauj6p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jrRrilundvp3Ljv432BVYa2uVDKaHRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

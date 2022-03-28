@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/Task"
+            android:title="Cards"
+            android:icon="@drawable/ic_style_black_24dp">
+
+        </item>
+
+        <item
+            android:id="@+id/Class"
+            android:title="Decks"
+            android:icon="@drawable/ic_class_black_24dp">
+
+        </item>
+
+        <item
+            android:id="@+id/Schedule"
+            android:title="Tips"
+            android:icon="@drawable/ic_school_black_24dp">
+
+        </item>
+        <item
+            android:id="@+id/About_Us"
+            android:title="About Us"
+            android:icon="@drawable/info">
+
+        </item>
+
+    </group>
+
+
+
+
+
+
+    <!--To create another section in the nav bar, use group again!-->
+
+
+
+</menu>

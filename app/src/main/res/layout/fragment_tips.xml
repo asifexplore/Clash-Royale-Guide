@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.a15017498.clashroyale2ndtime.tipsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="Saving Gold"
+        android:textStyle="bold"
+        android:id="@+id/button2"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button"/>
+    <Button
+        android:text="Gems"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/button3"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button"/>
+
+    <!--<Button-->
+        <!--android:text="Gems"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="150dp"-->
+        <!--android:id="@+id/btnsmth"-->
+        <!--android:textStyle="bold"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:background="@drawable/button"/>-->
+
+</LinearLayout>

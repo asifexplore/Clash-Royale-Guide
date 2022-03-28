@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.a15017498.clashroyale2ndtime.aboutUs">
+
+
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:padding="25dp"
+
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/imageViewFelixSmith"
+        android:background="@drawable/logo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="25dp"
+        android:id="@+id/About_US_Text"
+        android:text="We are a team, who are keen on developing applications which improves usability.
+
+This guide application is not associated, affiliated, endorsed, sponsored, or approved by ©SuperCell creator of Clash Royale. All the Clash Royale Images and content are taken from Clash Royale Fan Kit and are under Supercell’s Fan Content Policy
+www.supercell.com/fan-content-policy.
+" />
+</LinearLayout>

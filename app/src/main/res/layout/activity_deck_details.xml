@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_deck_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.a15017498.clashroyale2ndtime.deckDetails">
+
+    <include layout="@layout/toolbar_layout"
+        />
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="95dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/archers"
+        android:id="@+id/imageView2" />
+
+    <ImageView
+        android:layout_width="95dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/archers"
+        android:id="@+id/imageView3" />
+    <ImageView
+        android:layout_width="95dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/archers"
+        android:id="@+id/imageView4" />
+    <ImageView
+        android:layout_width="95dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/archers"
+        android:id="@+id/imageView5" />
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="95dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/archers"
+            android:id="@+id/imageView6" />
+
+        <ImageView
+            android:layout_width="95dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/archers"
+            android:id="@+id/imageView7" />
+        <ImageView
+            android:layout_width="95dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/archers"
+            android:id="@+id/imageView8" />
+        <ImageView
+            android:layout_width="95dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/archers"
+            android:id="@+id/imageView9" />
+
+    </LinearLayout>
+
+    <!--<android.support.v7.widget.RecyclerView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/recycler_view123"></android.support.v7.widget.RecyclerView>-->
+
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:paddingLeft="105dp"-->
+        <!--android:orientation="horizontal">-->
+        <!--<Button-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/button6"-->
+            <!--android:text="Push"/>-->
+
+        <!--<Button-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/button7"-->
+            <!--android:text="Defence"/>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/fragmentPlaceholder"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:orientation="vertical">-->
+
+    <!--</LinearLayout>-->
+
+
+</LinearLayout>
