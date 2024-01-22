@@ -1,5 +1,5 @@
 # Clash Royale Guide
-![alt text](https://asifexplore.com/img/new/cr_guide.jpg)
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/Magical_chest.png)
 <hr>
 
 TL;DR
@@ -11,9 +11,10 @@ Climb to Legend, Clash Royale's one stop guide. This application has been develo
 Climb to Legend, Clash Royale's one stop guide. This application has been developed to provide up to date information and meta information which would give an extra edge to its users. While the market for such applications is saturated, this application would surely be different from the rest as additional features are being implemented to improve usability for the users.
 <hr>
 
-![alt text](https://asifexplore.com/img/blog/cr_guide/home.PNG)
-![alt text](https://asifexplore.com/img/blog/cr_guide/card_info.PNG)
-![alt text](https://asifexplore.com/img/blog/cr_guide/home.PNG)
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/deckFragment.PNG)
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/cardFragment.PNG)
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/cardDetails.PNG) 
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/live_search_filter.PNG)
 <hr>
 
 Unique Features:
@@ -22,14 +23,14 @@ Unique Features:
 - Simple UI Navigation
 - Navigation Drawer
 
-![alt text](https://asifexplore.com/img/blog/cr_guide/navigationDrawer.PNG)
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/navigationDrawer.PNG)
 
 - Different Look
 - Providing a Dark theme, to make the players feel "Professional"
 - Notification Update
 - Firebase Notification, used for mass notification to all users
 
-![alt text](https://asifexplore.com/img/blog/cr_guide/firebase_Notification.PNG)
+![alt text](https://asifexplore.com/github_images/Clash_Royale_Guide/firebase_Notification.PNG)
 <hr>
 
 Competitor Analysis:
